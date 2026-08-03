@@ -21,8 +21,6 @@ End-to-end workflow that detects new Excel files, processes sales data, generate
 ### Portfolio Tracker
 Python application for tracking investments, allocation, average costs, unrealized P&L and portfolio history.
 
-### Automated Monthly Sales Report
-Python reporting engine for cleaning raw Excel data, calculating KPIs and generating formatted management reports.
 ### 📊 Automated Monthly Sales Report
 
 Automates monthly Excel reporting with data validation, KPI calculation and dashboard generation.
