@@ -2,7 +2,7 @@
 
 Operations and logistics professional transitioning into Python automation and backend development.
 
-I build practical tools that automate repetitive business processes, clean and analyse data, generate reports and connect services through APIs and workflow automation.
+I combine hands-on business operations experience with software development to build practical tools that solve real problems: automating repetitive processes, cleaning and analysing data, generating reports, and connecting services through APIs and workflow automation.
 
 ## What I work with
 
@@ -15,16 +15,27 @@ I build practical tools that automate repetitive business processes, clean and a
 
 ## Featured projects
 
-### Automated Sales Report System
-End-to-end workflow that detects new Excel files, processes sales data, generates reports, stores execution history and archives source files automatically.
+### [📊 Automated Sales Report System](https://github.com/Christian19917/automated-sales-report-system)
 
-### Portfolio Tracker
-Python application for tracking investments, allocation, average costs, unrealized P&L and portfolio history.
+An end-to-end workflow that detects new Excel files, processes sales data, generates reports, stores execution history, and archives source files automatically.
 
-### 📊 Automated Monthly Sales Report
+**Tech:** Python, FastAPI, Pandas, OpenPyXL, SQLite, Docker and n8n.
 
-Automates monthly Excel reporting with data validation, KPI calculation and dashboard generation.
+### [💼 Portfolio Tracker](https://github.com/Christian19917/portfolio-tracker)
 
+A Python and Streamlit application for tracking investments, allocation, average costs, unrealized P&L, transaction fees, and portfolio history.
 
-- AI Automation
-- Business Process Automation
+**Tech:** Python, Streamlit, Pandas, Matplotlib, Yahoo Finance and Pytest.
+
+### [📈 Automated Monthly Sales Report](https://github.com/Christian19917/automated-monthly-sales-report)
+
+Automates monthly Excel reporting with data validation, KPI calculation, rejected-row handling, and professional dashboard generation.
+
+**Tech:** Python, Pandas and OpenPyXL.
+
+## Current focus
+
+- Python automation
+- Backend development
+- Business process automation
+- API and workflow integration
