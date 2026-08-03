@@ -1,27 +1,32 @@
 # Hi, I'm Christian 👋
 
-Finance graduate with professional experience in logistics and operations.
+Operations and logistics professional transitioning into Python automation and backend development.
 
-Currently building projects in:
+I build practical tools that automate repetitive business processes, clean and analyse data, generate reports and connect services through APIs and workflow automation.
 
-- 🐍 Python
-- 📊 Data Analysis
-- 📈 Finance
-- ⚙️ Automation
-- 🤖 AI Workflows
+## What I work with
 
-## Projects
+- Python
+- Pandas and OpenPyXL
+- FastAPI
+- Docker
+- n8n
+- SQLite
 
-### 📈 Portfolio Tracker
+## Featured projects
 
-Python application for tracking investments, calculating performance and portfolio allocation.
+### Automated Sales Report System
+End-to-end workflow that detects new Excel files, processes sales data, generates reports, stores execution history and archives source files automatically.
 
+### Portfolio Tracker
+Python application for tracking investments, allocation, average costs, unrealized P&L and portfolio history.
+
+### Automated Monthly Sales Report
+Python reporting engine for cleaning raw Excel data, calculating KPIs and generating formatted management reports.
 ### 📊 Automated Monthly Sales Report
 
 Automates monthly Excel reporting with data validation, KPI calculation and dashboard generation.
 
-## Currently learning
 
-- n8n
 - AI Automation
 - Business Process Automation
